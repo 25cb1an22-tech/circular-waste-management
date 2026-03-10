@@ -19,7 +19,9 @@ Improper waste segregation leads to environmental pollution and inefficient recy
 This project provides a simple digital platform where users can:
 
 * Identify the type of waste
+* 
 * Learn the correct recycling method
+* 
 * Understand the importance of waste segregation
 
 ---
